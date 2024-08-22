@@ -30,12 +30,29 @@ to set up a new github repository:
 6. you can also choose to add a license to your repository
 7. and finally you click on create repository
 
-important decisions needed to be made when 
-
+important decisions needed to be made when creating a new repository are to;
+1. deciding the name of your repository 
+2. decide if the repository should be private or public
 
 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+
+a README is essential in a repository because it  
+1. provide an overview of what the project is about
+2. provide the necessary instructions on how to get started with the project and how to contribute to the the project
+3. holds the license and citation the repository has
+
+things that should be in a well written README are;
+1. a project name
+2. a brief introduction to the project
+3. instructions on how to go about installing the project
+4. guide on the recomended tools to use for the project
+5. project contributors
+6. external resources like documentation used
+
+a README file helps collaboration to be effective by clearly stating the necessary information needed by the various collaborators in order to carry out their various duties hereby much more effectively 
+
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
