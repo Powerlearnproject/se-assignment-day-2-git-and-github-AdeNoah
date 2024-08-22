@@ -1,7 +1,39 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
+the fundamental concepts of Version Control are;
+1. repository - a repository is a folder or a store for version control all the work is stored in the repository
+2. tracking changes - version control control help in tracking all the changes made to any file in a repository
+3. change management - version control manage changes by allowing multiple developers to work on the same file simultaneously and combine their changes
+4. file heriarchy - version control organizes files in herierchial structure enabling efficient storage and retrieval of versions
+5. increamental versions - versions not only track changes but allows for files to be reverted to previous versions
+6. client-server architecture - version control operates on client-server model where clients connect to a central repository to perform operations
+
+github is a popular tool for managing versions of code because it is easy to use 
+
+version control helps in maintaining project integrity through;
+1. error correction
+2. conflict resolution
+3. change audition
+4. collaboration
+5. code preservation 
+
+
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+
+to set up a new github repository:
+1. first click on the new repository on github's home page
+2. next, provide the name you wish your repository
+3. then it is advisable to give a discription of the repository
+4. you should also decide if you want the repository to be a public repository or a private repository
+5. you have the option of initializing a .md file
+6. you can also choose to add a license to your repository
+7. and finally you click on create repository
+
+important decisions needed to be made when 
+
+
+
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
