@@ -87,6 +87,19 @@ to create a branch, make sure you are on the right repository and the right bran
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
+pull requests are used to propose changes to other peoples repositories, it is a way of requesting to review peoples code, request for collaborations and request for testing and validation of others codes 
+
+pull requests facilitate code reviews and collaborations through having more people willing to work on a certain piece of code 
+
+steps involved in pulling requests are;
+1. creating a branch
+2. committing changes
+3. opening a pull request
+4. reviewing and discussion
+5. testing and validation
+6. branching merging
+
+
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
