@@ -65,6 +65,17 @@ disadvantages - public repositories lack confidentiality and no guarantee of sec
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
+In order to create a commit to a github repository
+1. In the command line, ensure the correct directory for the repository cd <repository-path>
+2. make the necessary changes to the file
+3. you should verify the changes you made using git status and git branch to ensure that its the correct branch
+4. Once you satisfied with the changes, use the git commit -m "commit message"
+
+Commits are simply snapshots of changes made to a repository's codebase. these commits are changes, and they are newer versions of the repository files that they are in, they are the modifications that have been made since the last commit.
+
+commits help in tracking changes because they are snapshots of the previous versions of the code to which the code could be reverted to.
+
+
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
